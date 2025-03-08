@@ -3,12 +3,11 @@
 
 <h3 align="center">Menos é mais</h3>
 
-- Sou estudante de Medicina Veterinária com grande foco em tecnologia e metodologias para aumentar a eficiência do aprendizado
-- Atualmente construindo meios para compartilhar meus conhecimentos
+- 🐶 Sou estudante de Medicina Veterinária com grande foco em tecnologia e metodologias para aumentar a eficiência do aprendizado
+- 💻 Atualmente construindo meios para compartilhar meus conhecimentos
 - 💬 Me pergunte sobre: Aprender-a-aprender, minimalismo, tecnologia e veterinária
 
 ## 📫 Conecte-se
 
-- Email: coronel@disroot.org
-- [in/aocoronel](https://www.linkedin.com/in/aocoronel)
-
+- 📩 coronel@disroot.org
+- <img height=20px width=20px src="https://external-content.duckduckgo.com/ip3/www.linkedin.com.ico"> [in/aocoronel](https://www.linkedin.com/in/aocoronel)
